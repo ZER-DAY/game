@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="XZero">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/XZero.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
